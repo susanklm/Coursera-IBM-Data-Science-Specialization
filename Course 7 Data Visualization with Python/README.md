@@ -1,0 +1,5 @@
+- Introduction to Matplotlib and Line Plots
+- Area Plots, Histograms and Bar Charts
+- Pie Charts, Box Plots, Scatter Plots and Bubble Plot
+- Waffle Charts Word Clouds and Regression-Plots
+- Generating Maps
