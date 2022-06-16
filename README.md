@@ -1,5 +1,5 @@
 # IBM-Data-Science-Specialization
-This repository contains selected exercises and assignments for IBM Data Science Specialization from Coursera.
+This repository contains selected exercises and assignments from Coursera's IBM Data Science Specialization.
 
 ## Assingments:
 * Analysis of House Sales in King Count USA
